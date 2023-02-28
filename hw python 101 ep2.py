@@ -6,7 +6,7 @@ GUI = Tk()
 GUI.title('ทายนิสัยจากกรุ๊ปเลือด')
 GUI.geometry('500x400')
 
-L1 = Label(GUI,text='กดเลือกกรุ๊ปเลือดของคุณ',font=('TH SarabunPSK',20),fg='blue')
+L1 = Label(GUI,text='กดเลือกกรุ๊ปเลือดของคุณ',font=('TH SarabunPSK',20),fg='pink')
 L1.place(x=50,y=10)
 def Button1():
     text = 'กรุ๊ป A เป็นจำพวกอยู่ในกรอบ เข้าตามตรอกออกตามประตู รักกฎระเบียบ มีความอดทนสูง เก็บอารมณ์เก่ง และมักจะระวังตัวเป็นพิเศษ'
