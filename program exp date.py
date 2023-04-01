@@ -98,15 +98,3 @@ B5.place(x=400,y=300)
 
 root.mainloop()
 
-
-
-
-
-
-
-
-
-
-
-
-root.mainloop()
